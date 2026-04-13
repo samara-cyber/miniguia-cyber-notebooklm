@@ -1,42 +1,42 @@
-# Miniguia de Estudos - Segurança da Informação com Redes
+📖 Miniguia de Estudos - Segurança da Informação com Redes
 
-## Contexto
-Estou estudando Segurança da Informação com foco em redes utilizando o NotebookLM como ferramenta de apoio.
+📌 Contexto
+Este projeto foi desenvolvido como parte dos meus estudos em Segurança da Informação com foco em redes, utilizando o NotebookLM como ferramenta de apoio. A proposta foi aplicar a Inteligência Artificial como ferramenta de aprendizagem ativa, explorando engenharia de prompts, análise crítica das respostas e organização estruturada do conhecimento.
 
-## Objetivo
+🎯 Objetivo
 - Aprender os conceitos básicos de segurança da informação
 - Entender a importância das redes
-- Principais Áreas de Atuação em Cybersecurity
-- Utilizar IA para melhorar meus estudos(NotbookLM)
+- Principais áreas de atuação em Cybersecurity
+- Como utilizar IA para melhorar meus estudos
 
-## Curadoria de Fontes
+📚 Curadoria de Fontes
 - https://www.cipher.com/pt_BR/blog/cipher/seguranca-informacao-principios
 - https://www.alura.com.br/artigos/rede-de-computadores
 - https://www.secday.com.br/post/areas-de-cybersecurity
 - https://www.youtube.com/watch?v=uMxAN3nEcRQ&t=1030s
 
-## Engenharia de Prompts
+🧠 Engenharia de Prompts
 
-### Prompt 1
+###💬 Prompt 1
 Explique o que é segurança da informação?
 
 Resultado: A segurança da informação compreende o conjunto de práticas e métodos necessários para proteger as informações de uma organização, garantindo que elas permaneçam seguras contra acessos não autorizados e interrupções. (resumo)
 
-### Prompt 1.1
-explique o que é segurança da informação, de uma forma mais explicativa?
+💬 Prompt 1.1
+Explique o que é segurança da informação, de uma forma mais explicativa?
 
 Resultado: A segurança da informação é um conceito amplo que envolve todas as práticas necessárias para proteger as informações de uma empresa ou indivíduo, garantindo que os negócios continuem funcionando e evitando prejuízos financeiros ou legais. (resumo)
 
 
-### O que eu entendi:
+🧠 O que eu entendi: Entendi que a segurança da informação é um conjunto de práticas que tem como objetivo proteger dados e sistemas, evitando acessos indevidos, falhas e prejuízos, garantindo que as informações estejam seguras e disponíveis quando necessário.
 
 
-### Dificuldade: Sem dificuldade, a resposta do prompt 1 foi recebida genericamente assim como o prompt. o do prompt 1.1 teve uma resposta mais explicativa com fácil entendimento. 
+⚠️ Dificuldade: Sem dificuldade, a resposta do Prompt 1 foi recebida genericamente assim como o prompt. O do Prompt 1.1 teve uma resposta mais explicativa com fácil entendimento. 
 
 
 
-### Prompt 2
-Explique o que é rede de computadores para iniciantes?com exemplos simples.
+💬 Prompt 2
+Explique o que é rede de computadores para iniciantes, com exemplos simples?
 
 Resultado: Para um iniciante, a melhor forma de entender as redes de computadores é vê-las como a infraestrutura que permite a interação entre dispositivos, sendo a base necessária para que quase todos os aplicativos e softwares que usamos funcionem.
 Compartilhamento de Recursos e Hardware: As redes permitem que vários computadores utilizem a mesma impressora ou scanner e acessem os mesmos arquivos e documentos
@@ -46,8 +46,8 @@ Acesso à Internet: A própria internet é uma gigantesca rede global que conect
 Mobilidade e Trabalho Remoto: Graças às redes sem fio (Wi-Fi), você tem a liberdade de acessar dados e sistemas de trabalho de qualquer lugar, sem precisar estar preso a cabos ou em uma instalação física específica
 Segurança e Armazenamento Centralizado: As redes facilitam o armazenamento de dados em servidores centrais, o que torna muito mais simples a realização de backups (cópias de segurança) e o controle de quem pode acessar informações sensíveis (resumo).
 
-### Prompt 2.2
-Exemplifique de forma simples a importância da redes de computadores?
+💬 Prompt 2.2
+Exemplifique de forma simples a importância das redes de computadores?
 
 Resultado: As redes de computadores são essenciais porque permitem que dispositivos "conversem" entre si para trocar informações e recursos, servindo como a base para o funcionamento de quase todos os aplicativos e softwares que utilizamos hoje Sem elas, a tecnologia seria isolada e limitada ao que um único aparelho consegue processar sozinho.
 exemplos: Compartilhamento de Hardware: Em um escritório, a rede permite que vários computadores utilizem a mesma impressora ou scanner
@@ -57,14 +57,14 @@ Trabalho Remoto e Mobilidade: Graças às redes sem fio (Wi-Fi) e ao acesso remo
 Segurança e Backup Centralizado: As redes permitem que os dados sejam guardados em servidores centrais. (Resumo)
 
 
-### O que eu entendi:
+🧠 O que eu entendi: Entendi que as redes de computadores são a base da comunicação entre dispositivos e permitem o funcionamento da internet e de diversos serviços do dia a dia.
 
 
- ### Dificuldade: o prompt 2 entregou um resultado mas detalhado, e com direcionamento usando palavras simples e exemplos do dia a dia para um iniciante, o 2 prompt teve exemplos como foi pedido, ambos os prompts entregou o que foi solicitado.
+ ⚠️ Dificuldade: O Prompt 2 entregou um resultado mais detalhado, e com direcionamento usando palavras simples e exemplos do dia a dia para um iniciante, o Prompt 2.2 teve exemplos como foi pedido, ambos os Prompts entregaram o que foi solicitado.
 
 
 
-### Prompt 3
+💬 Prompt 3
 Quais são as  Principais Áreas de Atuação em Cybersecurity?
 
 A cibersegurança não é uma profissão única, mas sim um conjunto de especializações que oferecem diversas oportunidades para profissionais com diferentes perfis e habilidades
@@ -89,7 +89,7 @@ Além dessas especializações diretas, profissionais de redes de computadores t
 
 Gostaria que eu criasse um guia de estudo ou um relatório detalhado comparando essas áreas para ajudá-lo a entender qual combina mais com seu perfil?
 
-### Prompt 3.3
+💬 Prompt 3.3
 Sim, crie o guia de estudo comparando as áreas de cybersecurity.
 
 Segurança Ofensiva (Red Team)
@@ -133,13 +133,13 @@ Perfil ideal: Meticuloso, paciente e apaixonado por análise minuciosa de dados.
 Foco principal: Investigação criminal e recuperação de vestígios digitais.
 
 
-### O que eu entendi:
+🧠 O que eu entendi: Entendi que a área de CyberSecurity possui várias especializações, e cada uma exige um perfil diferente, podendo atuar tanto na defesa quanto na identificação de falhas e prevenção de ataques.
 
-### Dificuldade: o prompt 1 entregou um bom resultado e ao final ele sugeriu uma criação de guia de estudo com comparações pra entedermos qual perfil uma pessoa precisa ter pra trabalhar naquela área. eu selecionei essa opção e recebi um resultado bem detalhado de cada área específica. percebemos que a sugestão do prompt é proveniente ao nosso prompt com a nossa dúvida, então é sempre bom olhar essas sugestões de prompts porque pode ser um complemento ou um adicional para o que estamos buscando.
+⚠️ Dificuldade: O Prompt 3 entregou um bom resultado e ao final ele sugeriu uma criação de guia de estudo com comparações pra entendermos qual perfil uma pessoa precisa ter pra trabalhar naquela área. eu selecionei essa opção e recebi um resultado bem detalhado de cada área específica. percebemos que a sugestão do Prompt é proveniente ao nosso prompt com a nossa dúvida, então é sempre bom olhar essas sugestões de Prompts porque pode ser um complemento ou um adicional para o que estamos buscando.
 
 
 
-### Prompt 4
+💬 Prompt 4
 Como Utilizar IA para melhorar meus estudos?
 
 O NotebookLM é uma ferramenta gratuita do Google que revoluciona o aprendizado ao permitir que você estude utilizando fontes específicas fornecidas por você mesmo, em vez de depender apenas de conhecimentos genéricos da internet
@@ -178,8 +178,8 @@ Ao iniciar, acesse as configurações no canto superior direito e defina o idiom
 Essa ferramenta é especialmente útil para quem precisa lidar com grandes volumes de informação, como estudantes de graduação, concurseiros ou profissionais que buscam especialização em áreas técnicas como cibersegurança e redes
 
 
-### Prompt 4.1
-o que não fazer na hora de utilizar a IA para os estudos?
+💬 Prompt 4.1
+O que não fazer na hora de utilizar a IA para os estudos?
 
 1-Não confiar cegamente nas respostas
 As IAs podem "alucinar", o que significa que podem gerar respostas que não fazem sentido ou inventar informações quando não as encontram nas fontes. É essencial checar as citações (os números que aparecem no texto) para verificar o trecho exato da fonte original e garantir que a IA não está distorcendo o conteúdo.
@@ -203,8 +203,8 @@ Ao iniciar seus estudos, você não deve esquecer de configurar o idioma de resp
 A inteligência artificial deve ser vista como uma ferramenta auxiliar e não como um substituto completo para métodos de estudo que já funcionam bem para você. Ela deve vir para ajudar a filtrar, organizar e revisar o conteúdo de maneira mais eficiente.
 
 
-### Prompt 4.2
-o que não fazer na hora de utilizar a IA para os estudos e para manter a qualidade do aprendizado?
+💬 Prompt 4.2
+O que não fazer na hora de utilizar a IA para os estudos e para manter a qualidade do aprendizado?
 
 Para garantir a qualidade do seu aprendizado ao utilizar ferramentas de inteligência artificial como o NotebookLM, é fundamental evitar certas práticas que podem comprometer a precisão das informações e a retenção do conhecimento. Com base nas fontes, aqui está o que não fazer:
 Não confie cegamente nas respostas da IA: As ferramentas de IA podem "alucinar", ou seja, criar respostas que não fazem sentido ou inventar informações que não estão presentes nos materiais originais.
@@ -226,30 +226,56 @@ Não confie cegamente nas respostas da IA: As ferramentas de IA podem "alucinar"
 8-Não negligencie o fator humano e o treinamento: Assim como na segurança da informação, onde a tecnologia sozinha não basta, nos estudos a IA não substitui a conscientização, o esforço pessoal e a análise crítica do estudante.
 
 
-### O que eu entendi:
+🧠 O que eu entendi: Entendi que a inteligência artificial pode ser uma ferramenta muito útil nos estudos, ajudando a organizar conteúdos, gerar resumos e facilitar o aprendizado, mas deve ser usada como apoio e não como substituto do esforço pessoal.
 
- ### Dificuldade: podemos ver que o prompt 4 é um prompt simples, não especifiquei qual sistema eu queria e de imediato o sistema já trouxe sobre o notbooklm, tudo bem que tem as fontes que eu adicionei então tive dúvidas e fiz um novo arquivo sem fontes com a mesma pergunta e novamente o sistema trouxe o notbooklm como sugestão de uma IA, então fui no chatGPT e fiz a mesma pergunta, e o resultado foi sem sugestões de sistema e com dicas de estudos mas não especificando o sistema a ser usado, com isso percebi que o notbooklm é referência de IA direcionada para o aprendizado e aos estudos, No entanto podemos ver que no prompt 4.1 nos resultados 2,3,4,5 são dicas de como estudar com o notbooklm, mas a minha intençaõ era obter um resultado geral não específicando o notbooklm, então eu enviei um novo prompt 4.2 mais específicado. e o resultado teve 2 dicas a mais do que o resultado anterior, com isso podemos ver que o resultado e proveniente das fontes adicionadas.
-
-
+ ⚠️ Dificuldade: Podemos ver que o Prompt 4 é um Prompt simples, não especifiquei qual sistema eu queria e de imediato o sistema já trouxe sobre o notebooklm, tudo bem que tem as fontes que eu adicionei então tive dúvidas e fiz um novo arquivo sem fontes com a mesma pergunta e novamente o sistema trouxe o notebooklm como sugestão de uma IA, então fui no chatGPT e fiz a mesma pergunta, e o resultado foi sem sugestões de sistema e com dicas de estudos mas não especificando o sistema a ser usado, com isso percebi que o notebooklm é referência de IA direcionada para o aprendizado e aos estudos, No entanto podemos ver que no Prompt 4.1 nos resultados 2,3,4,5 são dicas de como estudar com o notbooklm, mas a minha intenção era obter um resultado geral não específicando o notebooklm, então eu enviei um novo Prompt 4.2 mais específicado. e o resultado teve 2 dicas a mais do que o resultado anterior, com isso podemos ver que o resultado e proveniente das fontes adicionadas.
 
 
-## Miniguia de Estudo
 
-### Segurança da Informação
-É a área responsável por proteger dados e sistemas.
 
-### Redes
-Permitem a comunicação entre dispositivos.
+ 📖  Miniguia de Estudo
 
-### Princípios
-- Confidencialidade
-- Integridade
-- Disponibilidade
+🔐 Segurança da Informação:
+A segurança da informação é a área responsável por proteger dados, sistemas e informações contra acessos não autorizados, falhas e possíveis ataques.
 
-## Glossário
-- Firewall: controla o tráfego
-- Malware: software malicioso
-- Phishing: golpe para roubar dados
+🌐 Redes:
+As redes de computadores permitem a comunicação entre dispositivos, sendo fundamentais para o funcionamento da internet e de sistemas.
 
-## Conclusão
-Esse projeto me ajudou a entender melhor a base da segurança da informação usando IA.
+
+🛡️ Princípios:.
+- Confidencialidade: garante que apenas pessoas autorizadas tenham acesso às informações.
+- Integridade: assegura que os dados não sejam alterados indevidamente.
+- Disponibilidade: garante que as informações estejam acessíveis quando necessário.
+
+ 📖 Glossário:
+- Segurança da Informação: área responsável por proteger dados, sistemas e informações contra acessos não autorizados e ameaças.  
+
+- Rede de Computadores: conjunto de dispositivos conectados que permitem a troca de informações.  
+
+- Confidencialidade: princípio que garante que apenas pessoas autorizadas tenham acesso às informações.  
+
+- Integridade: princípio que assegura que os dados não sejam alterados indevidamente.  
+
+- Disponibilidade: princípio que garante que as informações estejam acessíveis quando necessário. 
+
+- Firewall: sistema de segurança que controla o tráfego de rede, permitindo ou bloqueando acessos.
+
+- Malware: software malicioso criado para causar danos ou roubar informações. 
+
+- Phishing: golpe que tenta enganar o usuário para obter dados sensíveis.
+
+
+ 🔁 Prompts Reutilizáveis:
+Durante meus estudos, utilizei e adaptei os seguintes prompts que podem ser reutilizados:
+
+- Explique o que é segurança da informação de forma simples?
+- Explique [conceito] de forma mais detalhada?
+- Explique [tema] para iniciantes com exemplos simples?
+- Qual a importância de [tema] na prática?
+- Quais são as principais áreas de atuação em [área]?
+- Crie um guia comparando as áreas de [tema]?
+- Como utilizar [tecnologia] para melhorar meus estudos?
+- O que não fazer ao utilizar [ferramenta/IA] nos estudos?
+
+📌 Conclusão:
+Esse projeto me ajudou a entender os conceitos fundamentais de Segurança da Informação e Redes, além de mostrar como a Inteligência Artificial pode ser utilizada como apoio nos estudos e como é uma tecnologia que não dá para não usar ou fingir que não existe. A inteligência artificial surgiu para ser uma aliada na evolução tecnológica e não uma inimiga de quem desenvolve tecnologia. Com esse projeto, entendi que as empresas não buscam profissionais que não usam a IA por acharem que não precisam, e sim profissionais que saibam dominar a IA e usá-la a seu favor para que possam trazer ótimos resultados. Com isso, compreendo que dominar o uso da IA pode ser um diferencial importante na área de tecnologia.
